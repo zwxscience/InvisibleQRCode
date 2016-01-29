@@ -5,7 +5,7 @@ myBlog: http://blog.zhangweixiang.com
 ## Blog Source Code
 
 <a href="https://github.com/zwxscience/InvisibleQRCode">https://github.com/zwxscience/InvisibleQRCode</a>
-This project including InvisibleQRCode  Recognition agrith with 2 pages of mine.
+This project including InvisibleQRCode  Recognition algorithm with 2 pages of mine.
 Please carefully read papers if u can not uderstand them.Or leave a message on my site.
 
 
